@@ -131,8 +131,9 @@ h6 {
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 30px;
-  font-size: 14px;
+  font-size: 20px;
   color: #b1efe9;
+  font-weight: 500;
   white-space: nowrap;
   transition: 0.3s;
 }
